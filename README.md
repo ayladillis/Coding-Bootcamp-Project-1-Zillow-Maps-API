@@ -1,5 +1,9 @@
 # Property Mover
 
+Property Mover takes in an address that the user wants to map from as well as the maximum time they want to commute (by car) and how much they want to spend on housing. 
+A map and listing of properties with there commute times is generated. 
+
+
 ![Web screenshot](webscreenshot.png)
 ![Web screenshot](https://media.giphy.com/media/RgtzggWcC8GcHW6HnT/giphy.gif)
 ![Web screenshot](https://media.giphy.com/media/TiD6bqtO7e0E2KxUDt/giphy.gif)
